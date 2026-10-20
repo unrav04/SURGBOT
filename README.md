@@ -144,11 +144,11 @@ SURGBOT/
 <!-- 4. Flashing the Arduino sketch -->
 <!-- 5. Running the main script -->
 
-## Report
+
 
 <!-- Link to the project report PDF if you want to include it in the repo -->
 
-## License
+
 
 <!-- e.g. MIT -->
 
