@@ -9,8 +9,7 @@ A 6-DOF robotic arm that listens for a spoken request ("SURGEBOT, provide scalpe
 
 > **Disclaimer:** SURGEBOT is an undergraduate prototype built as a proof of concept. It has not been tested in a clinical or sterile environment, is not a medical device, and must not be used in real procedures.
 
-*Undergraduate minor project, Manipal Institute of Technology (MAHE), November 2025.*
-*Team: Unarv Erinjery Bijumon, Nathan Ronald Gonsalves, Juliyan Deepak. Guide: Dr. Amritanshu Gupta.*
+
 
 ---
 
