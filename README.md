@@ -2,7 +2,8 @@
 
 A 6-DOF robotic arm that listens for a spoken request ("SURGEBOT, provide scalpel"), finds the requested instrument on a tray using a custom-trained object detector, and moves to pick it up and present it using inverse kinematics.
 
-[![Demo video](images/demo-thumbnail.jpg)](https://www.youtube.com/watch?v=Ohq5c7Ah-D8)
+[![Demo video](<img width="1280" height="960" alt="WhatsApp Image 2025-11-05 at 3 44 31 PM" src="https://github.com/user-attachments/assets/62e3f2f8-b46e-4dc4-a97d-680da4ee51b4" />
+)](https://www.youtube.com/watch?v=Ohq5c7Ah-D8)
 
 
 **Demo video:** https://www.youtube.com/watch?v=Ohq5c7Ah-D8
